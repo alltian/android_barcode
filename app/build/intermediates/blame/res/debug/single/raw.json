@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/feiwang/workspace/barcode_test/app/build/intermediates/res/merged/debug/raw/beep.ogg",
+        "source": "/Users/feiwang/workspace/barcode_test/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/Users/feiwang/workspace/barcode_test/app/build/intermediates/res/merged/debug/raw/realm_properties",
+        "source": "/Users/feiwang/workspace/barcode_test/app/src/main/res/raw/realm_properties"
+    }
+]
